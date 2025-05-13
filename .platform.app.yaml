@@ -16,6 +16,7 @@ runtime:
         - pdo_pgsql
         - sodium
         - xsl
+        - pdo_pgsql
         
 
 variables:
